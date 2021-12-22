@@ -1,12 +1,12 @@
 # 🛍 Next Shopify Storefront
 
-A **[Shopping Cart](https://github.com/maxvien/next-shopify-storefront)** built with [TypeScript](https://www.typescriptlang.org/), [Emotion](https://emotion.sh/), [Next.js](https://nextjs.org/), [React.js](https://reactjs.org/), [React Query](https://react-query.tanstack.com/), [Shopify Storefront GraphQL API](https://shopify.dev/api/storefront), ... and [Material UI](https://material-ui.com/).
+A **[Shopping Cart](https://github.com/supercodingfan/shopping-nextjs-example)** built with [TypeScript](https://www.typescriptlang.org/), [Emotion](https://emotion.sh/), [Next.js](https://nextjs.org/), [React.js](https://reactjs.org/), [React Query](https://react-query.tanstack.com/), [Shopify Storefront GraphQL API](https://shopify.dev/api/storefront), ... and [Material UI](https://material-ui.com/).
 
 ## Experience
 
 These are my experience when I have been working on this project:
 
-- Designing & Building the [Storefront](https://github.com/maxvien/next-shopify-storefront) from Scratch.
+- Designing & Building the [Storefront](https://github.com/supercodingfan/shopping-nextjs-example) from Scratch.
 - Using [Emotion](https://emotion.sh/) to Write Component-scoped Styles.
 - Using [TypeScript](https://www.typescriptlang.org/) to Create Type-safe React Components.
 - Using [React Query](https://react-query.tanstack.com/) to Fetch, Cache and, Update Data.
@@ -24,14 +24,14 @@ If you like this project, hit the **STAR** button to bookmark it ⭐️
 
 ## Demonstration
 
-You can visit here to see the demo: https://next-shopify-storefront.vercel.app/
+You can visit here to see the demo: https://shopping-nextjs-example.vercel.app/
 
 ## Installation
 
 Clone the source code into your computer.
 
 ```bash
-git clone https://github.com/maxvien/next-shopify-storefront.git
+git clone https://github.com/supercodingfan/shopping-nextjs-example.git
 ```
 
 Install the project's dependencies.
@@ -97,8 +97,3 @@ To speed up your productivity, you can install these extensions:
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-## Related Projects
-
-- **[Shopify Data Faker](https://github.com/Maxvien/shopify-data-faker)** • A Shopify development tool for generating dummy store data.
-- **[Bootstrap Shopify Theme](https://github.com/Maxvien/bootstrap-shopify-theme)** • A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
-- **[Next Shopify Storefront (v1)](https://github.com/Maxvien/next-shopify-storefront/tree/v1)** • A Shopping Cart built with TypeScript, NextJS, React, Redux, Apollo Client, Shopify Storefront GraphQL API, ... and Material UI.
